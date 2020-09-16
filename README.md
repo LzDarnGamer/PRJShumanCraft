@@ -3,7 +3,7 @@
 <h4>A45140 A45414</h4>
 
 A pasta <b>00_Planeamento</b> contém o ficheiro excel com o planeamento do projeto.<br/>
-A pasta <b>01_Analise</b> contém um ficheiro .txt não aplicável.<br/>
+A pasta <b>01_Analise</b> contém os casos de utilização<br/>
 A pasta <b>02_Desenho</b> contém um ficheiro .txt não aplicável.<br/>
 A pasta <b>03_Implementação</b> contém os scripts C# do projeto, asssim como um ficheiro .txt onde se encontra o link para o repositório do projeto todo.<br/>
 A pasta <b>04_Teste</b> contêm um link para uma versão executável do jogo, Assim como o link para o questionário do mesmo.<br/>
