@@ -1,5 +1,5 @@
 # PRJShumanCraft
-<h1>Projeto Final de Curso - LEIM 2019/2020</h1>
+<h2>Projeto Final de Curso - LEIM 2019/2020</h2>
 A45140 A45414
 
 A pasta 00_Planeamento contém o ficheiro excel com o planeamento do projeto.<br/>
